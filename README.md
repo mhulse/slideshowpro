@@ -10,22 +10,22 @@ Please give me some credit if you use all or parts of the code in your own proje
 
 ## Usage:
 
-All of my SSP classes depend on my utility classes:
+All of my SSP classes depend on my utility classes:  
 [me.hulse.util.*](https://github.com/mhulse/me.hulse.util)
 
 Put somewhere on your HDD and link to them from the flash publish settings.
 
-In your publish settings, point to custom classes:
-Publish Settings >> Flash >> Script >> Settings... >> Source Path: Click on folder and locate folder housing cutom classes.
+In your publish settings, point to custom classes:  
+`Publish Settings >> Flash >> Script >> Settings... >> Source Path` : Cick on folder and locate folder housing cutom classes.
 
-I like to put my custom classes in my [Dropbox](http://dropbox.com) folder so I can share the classes between computers.
+Note: I like to put my custom classes in my [Dropbox](http://dropbox.com) folder so I can share the classes between computers.
 
-A more standard spot for custom classes:
-~/Applications/Adobe Flash CS5/Common/First Run/Classes/Custom/
+A more standard spot for custom classes:  
+`~/Applications/Adobe Flash CS5/Common/First Run/Classes/Custom/`
 
 IIRC, you won't have to set a source path to custom classes if you put them in the above Classes folder.
 
-__ssp.fla:__ Open in CS5, drag/drop the SSP component to the stage and then delete it from the stage.
+__ssp.fla:__ Open in CS5, drag/drop the SSP component to the stage and then delete it from the stage.  
 Right-click on the SSP component in your library, get properties, and then choose "Export for ActionScript".
 
 When upgrading to a new release of SSP, follow the same steps as above minus the right-click stuff. Too easy!
