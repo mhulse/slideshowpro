@@ -1,4 +1,4 @@
-﻿package ssp {
+package ssp {
 	
 	// Imports:
 	import flash.events.Event;

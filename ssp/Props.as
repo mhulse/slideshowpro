@@ -1,4 +1,4 @@
-﻿package ssp {
+package ssp {
 	
 	// Custom classes:
 	import net.slideshowpro.slideshowpro.*;
